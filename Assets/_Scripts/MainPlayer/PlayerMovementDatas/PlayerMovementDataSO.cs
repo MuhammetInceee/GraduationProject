@@ -8,8 +8,13 @@ namespace MainPlayer.Data
 
     public class PlayerMovementDataSO : ScriptableObject
     {
+        internal float PlayerSpeed;
+        
         [SerializeField] private float walkSpeed;
         public float WalkSpeed => walkSpeed;
+
+        [SerializeField] private float crouchWalkSpeed;
+        public float CrouchWalkSpeed => crouchWalkSpeed;
 
         [SerializeField] private float jumpForce;
         public float JumpForce => jumpForce;

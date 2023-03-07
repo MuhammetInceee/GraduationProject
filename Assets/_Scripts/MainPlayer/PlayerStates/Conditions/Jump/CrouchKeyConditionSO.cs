@@ -4,13 +4,13 @@ using UOP1.StateMachine;
 
 namespace MainPlayer.Conditions
 {
-	[CreateAssetMenu(menuName = "State Machines/Conditions/KeyConditions/JumpKeyCondition")]
+	[CreateAssetMenu(menuName = "State Machines/Conditions/KeyConditions/CrouchKeyCondition")]
 
-	public class JumpKeyConditionSO : StateConditionSO<JumpKeyCondition>
+	public class CrouchKeyConditionSO : StateConditionSO<CrouchKeyCondition>
 	{
 	}
 
-	public class JumpKeyCondition : Condition
+	public class CrouchKeyCondition : Condition
 	{
 		//Component references
 		private KeyBindsSO _keyBinds;
@@ -22,9 +22,9 @@ namespace MainPlayer.Conditions
 
 		protected override bool Statement()
 		{
-			foreach (KeyCode jumpKey in _keyBinds.JumpKeys)
+			foreach (KeyCode crouchKey in _keyBinds.CrouchKeys)
 			{
-				if (Input.GetKeyDown(jumpKey))
+				if (Input.GetKey(crouchKey))
 				{
 					return true;
 				}

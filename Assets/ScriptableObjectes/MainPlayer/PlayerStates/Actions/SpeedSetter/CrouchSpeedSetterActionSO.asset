@@ -9,6 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c278836ffff618f499523f8f294f20a4, type: 3}
-  m_Name: JumpConditionSO
+  m_Script: {fileID: 11500000, guid: f2c2a3d5107957445b91b15338b92495, type: 3}
+  m_Name: CrouchSpeedSetterActionSO
   m_EditorClassIdentifier: 
+  description: 

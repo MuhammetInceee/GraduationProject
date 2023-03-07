@@ -9,28 +9,24 @@ namespace MainPlayer.Actions
 	/// <summary>
 	/// Flexible StateActionSO for the StateMachine which allows to set any parameter on the Animator, in any moment of the state (OnStateEnter, OnStateExit, or each OnUpdate).
 	/// </summary>
-	[CreateAssetMenu(fileName = "WalkActionSO", menuName = "State Machines/Actions/WalkAction")]
+	[CreateAssetMenu(fileName = "WalkSpeedSetterActionSO", menuName = "State Machines/Actions/SpeedSetter/WalkSpeedSetterAction")]
 
-	public class WalkActionSO : StateActionSO
+	public class WalkSpeedSetterActionSO : StateActionSO
 	{
-		protected override StateAction CreateAction() => new WalkAction();
+		protected override StateAction CreateAction() => new WalkSpeedSetterAction();
 	}
 
-	public class WalkAction : StateAction
+	public class WalkSpeedSetterAction : StateAction
 	{
 		//Component references
-		private Rigidbody _rb;
-		private Transform _transform;
 		private PlayerMovementDataSO _playerMovementData;
 
-		public WalkAction()
+		public WalkSpeedSetterAction()
 		{
 		}
 
 		private void GetReferences(StateMachine stateMachine)
 		{
-			_transform = stateMachine.GetComponent<Transform>();
-			_rb = stateMachine.GetComponent<Rigidbody>();
 		}
 
 		private void DataReadFromResource()
@@ -46,25 +42,16 @@ namespace MainPlayer.Actions
 
 		public override void OnStateEnter()
 		{
-			
+			_playerMovementData.PlayerSpeed = _playerMovementData.WalkSpeed;
 		}
 
 		public override void OnStateExit()
 		{
-		}
-
-		private void SetParameter()
-		{
+			_playerMovementData.PlayerSpeed = _playerMovementData.WalkSpeed;
 		}
 
 		public override void OnUpdate()
 		{
-			float horizontal = Input.GetAxis("Horizontal");
-			float vertical = Input.GetAxis("Vertical");
-
-			Vector3 move = _transform.right * horizontal + _transform.forward * vertical;
-
-			_rb.MovePosition(_rb.position + move * (_playerMovementData.PlayerSpeed * Time.deltaTime));
 		}
 	}
 
