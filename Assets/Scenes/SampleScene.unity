@@ -651,6 +651,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGrounded: 0
+  isInInteraction: 0
 --- !u!1 &1133906302
 GameObject:
   m_ObjectHideFlags: 0

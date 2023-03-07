@@ -5,11 +5,11 @@ namespace MainPlayer.Conditions
 {
 	[CreateAssetMenu(menuName = "State Machines/Conditions/JumpCondition")]
 
-	public class JumpConditionSO : StateConditionSO<JumpCondition>
+	public class IsGroundConditionSO : StateConditionSO<IsGroundCondition>
 	{
 	}
 
-	public class JumpCondition : Condition
+	public class IsGroundCondition : Condition
 	{
 		//Component references
 		private Conditions _conditions;

@@ -8,10 +8,9 @@ namespace MainPlayer.Conditions
     {
         private bool _canCheck = true;
         private StateMachine _stateMachine;
-        
-        
-        
+
         public bool isGrounded;
+        public bool isInInteraction;
 
         // public float distance;
 
