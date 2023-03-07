@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: PlayerMovementData
   m_EditorClassIdentifier: 
   walkSpeed: 5
+  jumpForce: 500
