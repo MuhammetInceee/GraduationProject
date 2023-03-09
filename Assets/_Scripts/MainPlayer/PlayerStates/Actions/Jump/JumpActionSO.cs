@@ -47,7 +47,6 @@ namespace MainPlayer.Actions
 
 		public override void OnStateEnter()
 		{
-			
 			_conditions.StartCoroutine(_conditions.Jump());
 			_rb.AddForce(Vector3.up * _playerMovementData.JumpForce);
 		}

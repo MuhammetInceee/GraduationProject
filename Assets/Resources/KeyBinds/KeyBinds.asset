@@ -15,3 +15,4 @@ MonoBehaviour:
   jumpKeys: 20000000
   crouchKeys: 32010000
   interactKey: 65000000
+  zoomKeys: 44010000

@@ -16,6 +16,9 @@ namespace KeyBinds
 
         [SerializeField] private KeyCode[] interactKey;
         public KeyCode[] InteractKeys => interactKey;
+
+        [SerializeField] private KeyCode[] zoomKeys;
+        public KeyCode[] ZoomKeys => zoomKeys;
     }
 }
     
