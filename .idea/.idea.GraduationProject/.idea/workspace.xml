@@ -12,7 +12,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/KeyBindsSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Actions/Crouch/CrouchActionSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Actions/DebugActionSO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Actions/InteractionActionSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Actions/Jump/JumpActionSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Actions/SpeedSetter/WalkSpeedSetterActionSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Conditions/IsInInteractionConditionSO.cs" root0="FORCE_HIGHLIGHTING" />
@@ -90,7 +89,8 @@
       <updated>1678096527451</updated>
       <workItem from="1678096528949" duration="3329000" />
       <workItem from="1678181023579" duration="15137000" />
-      <workItem from="1678226040657" duration="685000" />
+      <workItem from="1678226040657" duration="1023000" />
+      <workItem from="1678365168033" duration="2187000" />
     </task>
     <servers />
   </component>
@@ -99,6 +99,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
