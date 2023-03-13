@@ -8,6 +8,8 @@ namespace Mouse.PlayerInput
 {
     public class PlayerMouseController : MonoBehaviour
     {
+        private bool canFallow = true;
+        
         #region SerializeField Parameters
 
         
@@ -62,6 +64,11 @@ namespace Mouse.PlayerInput
 
         void Update()
         {
+            if (Input.GetKeyDown(KeyCode.LeftShift))
+            {
+                canFallow = !canFallow;
+            }
+            if(!canFallow) return;
             MouseController();
             HandleZoom();
         }
@@ -72,7 +79,7 @@ namespace Mouse.PlayerInput
             float mouseY = Input.GetAxis("Mouse Y") * sensitivity * Time.deltaTime;
 
             _xRotation -= mouseY;
-            _xRotation = Mathf.Clamp(_xRotation, -90f, 55f);
+            _xRotation = Mathf.Clamp(_xRotation, 0, 160);
 
             transform.localRotation = Quaternion.Euler(_xRotation, 0f, 0f);
             playerBody.Rotate(Vector3.up * mouseX);
