@@ -3,36 +3,17 @@ using System.Collections;
 using System.Collections.Generic;
 using KeyBinds;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace Mouse.PlayerInput
 {
     public class PlayerMouseController : MonoBehaviour
     {
         private bool canFallow = true;
-        
-        #region SerializeField Parameters
 
-        
-
-        #endregion
-        
-        
-        #region Private Parameters
-
-        
-
-        #endregion
-        
-        
-        #region Public Parameters
-
-        
-
-        #endregion
-        
         [SerializeField] private float sensitivity = 100f;
         [SerializeField] private Transform playerBody;
-        private float _xRotation = 0f;
+        private float _xRotationCamera = 0f;
         private Camera _playerCamera;
         private KeyBindsSO _keyBinds;
         
@@ -46,9 +27,7 @@ namespace Mouse.PlayerInput
         private float _defaultFOV;
         private Coroutine _zoomRoutine;
         private float _defaultYPos = 0;
-
         
-
 
 
         private void Start()
@@ -60,6 +39,7 @@ namespace Mouse.PlayerInput
             
             _defaultYPos = _playerCamera.transform.localPosition.y;
             _defaultFOV = _playerCamera.fieldOfView;
+            
         }
 
         void Update()
@@ -78,10 +58,9 @@ namespace Mouse.PlayerInput
             float mouseX = Input.GetAxis("Mouse X") * sensitivity * Time.deltaTime;
             float mouseY = Input.GetAxis("Mouse Y") * sensitivity * Time.deltaTime;
 
-            _xRotation -= mouseY;
-            _xRotation = Mathf.Clamp(_xRotation, 0, 140);
-
-            transform.localRotation = Quaternion.Euler(_xRotation, 0f, 0f);
+            _xRotationCamera -= mouseY;
+            _xRotationCamera = Mathf.Clamp(_xRotationCamera, 0, 120);
+            transform.localRotation = Quaternion.Euler(_xRotationCamera, 0f, 0f);
             playerBody.Rotate(Vector3.up * mouseX);
         }
 
