@@ -10,6 +10,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Packages/StateMachine/Scripts/DefaultStateActionSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/KeyBindsSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/Physcis/PlayerPhysicController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/Physcis/PlayerPhysicControllerSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Actions/Crouch/CrouchActionSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Actions/DebugActionSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerStates/Actions/Jump/JumpActionSO.cs" root0="FORCE_HIGHLIGHTING" />
@@ -92,7 +94,8 @@
       <workItem from="1678226040657" duration="1023000" />
       <workItem from="1678365168033" duration="6174000" />
       <workItem from="1678734525041" duration="3124000" />
-      <workItem from="1678868995511" duration="3860000" />
+      <workItem from="1678868995511" duration="4562000" />
+      <workItem from="1678967898817" duration="10264000" />
     </task>
     <servers />
   </component>

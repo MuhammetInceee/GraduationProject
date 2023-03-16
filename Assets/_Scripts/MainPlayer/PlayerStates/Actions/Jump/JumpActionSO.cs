@@ -18,25 +18,28 @@ namespace MainPlayer.Actions
 
 	public class JumpAction : StateAction
 	{
+		private static readonly int Jump = Animator.StringToHash("Jump");
 		//Component references
-		
-		private Rigidbody _rb;
-		private PlayerMovementDataSO _playerMovementData;
+
+		private Animator _animator;
 		private Conditions.Conditions _conditions;
-		
+		private PlayerMovementDataSO _playerMovementData;
+		private PlayerPhysicControllerSO _playerPhysicController;
+
 		public JumpAction()
 		{
 		}
 
 		private void GetReferences(StateMachine stateMachine)
 		{
-			_rb = stateMachine.GetComponent<Rigidbody>();
 			_conditions = stateMachine.GetComponent<Conditions.Conditions>();
+			_animator = stateMachine.GetComponent<Animator>();
 		}
 
 		private void DataReadFromResource()
 		{
 			_playerMovementData = Resources.Load<PlayerMovementDataSO>("MainPlayer/PlayerMovementData");
+			_playerPhysicController = Resources.Load<PlayerPhysicControllerSO>("MainPlayer/PlayerPhysicControllerSO");
 		}
 
 		public override void Awake(StateMachine stateMachine)
@@ -46,13 +49,16 @@ namespace MainPlayer.Actions
 		}
 
 		public override void OnStateEnter()
-		{
+		{ 
 			_conditions.StartCoroutine(_conditions.Jump());
-			_rb.AddForce(Vector3.up * _playerMovementData.JumpForce);
+			_playerPhysicController.PhysicVelocity.y =
+				Mathf.Sqrt(_playerMovementData.JumpHeight * -2 * _playerPhysicController.Gravity);
+			_animator.SetBool(Jump, true);
 		}
 
 		public override void OnStateExit()
 		{
+			_animator.SetBool(Jump, false);
 		}
 
 		private void SetParameter()

@@ -18,24 +18,31 @@ namespace MainPlayer.Actions
 	public class IdleAction : StateAction
 	{
 		//Component references
+		private Animator _animator;
+		private static readonly int GoIdle = Animator.StringToHash("GoIdle");
+
 		public IdleAction()
 		{
 		}
 
 		public override void Awake(StateMachine stateMachine)
 		{
+			_animator = stateMachine.GetComponent<Animator>();
 		}
 
 		public override void OnStateEnter()
 		{
+			_animator.SetBool(GoIdle, true);
 		}
 
 		public override void OnStateExit()
 		{
+			_animator.SetBool(GoIdle, false);
 		}
 
 		private void SetParameter()
 		{
+			
 		}
 
 		public override void OnUpdate()
