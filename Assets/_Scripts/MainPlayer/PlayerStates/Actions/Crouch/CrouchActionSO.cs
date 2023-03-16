@@ -11,31 +11,41 @@ namespace MainPlayer.Actions
 	[CreateAssetMenu(fileName = "CrouchActionSO", menuName = "State Machines/Actions/CrouchAction")]
 
 	public class CrouchActionSO : StateActionSO
-	{
+	{ 
 		protected override StateAction CreateAction() => new CrouchAction();
 	}
 
 	public class CrouchAction : StateAction
 	{
 		//Component references
-		private Transform _transform;
+		private Camera _mainCamera;
+		private GameObject _handTarget;
+		private CharacterController _controller;
+
+
+		private Vector3 _defaultCameraPos;
 		public CrouchAction()
 		{
 		}
 
 		public override void Awake(StateMachine stateMachine)
 		{
-			_transform = stateMachine.GetComponent<Transform>();
+			_mainCamera = Camera.main;
+			_handTarget = GameObject.FindWithTag("HandTarget");
+			_controller = stateMachine.GetComponent<CharacterController>();
 		}
 
 		public override void OnStateEnter()
 		{
-			_transform.localScale = new Vector3(1, 0.7f, 1f);
+			Vector3 cameraPos = _mainCamera.transform.localPosition;
+			_mainCamera.transform.localPosition = new Vector3(cameraPos.x, cameraPos.y - 0.3f, cameraPos.z);
+
+			Vector3 handTargetPos = _handTarget.transform.localPosition;
+			_handTarget.transform.localPosition = new Vector3(handTargetPos.x, handTargetPos.y - 0.3f, handTargetPos.z);
 		}
 
 		public override void OnStateExit()
 		{
-			_transform.localScale = Vector3.one;
 		}
 
 		private void SetParameter()
