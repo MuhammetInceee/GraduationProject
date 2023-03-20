@@ -59,7 +59,7 @@ namespace Mouse.PlayerInput
             float mouseY = Input.GetAxis("Mouse Y") * sensitivity * Time.deltaTime;
 
             _xRotationCamera -= mouseY;
-            _xRotationCamera = Mathf.Clamp(_xRotationCamera, 0, 120);
+            _xRotationCamera = Mathf.Clamp(_xRotationCamera, 0, 140);
             transform.localRotation = Quaternion.Euler(_xRotationCamera, 0f, 0f);
             playerBody.Rotate(Vector3.up * mouseX);
         }

@@ -141,6 +141,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -354,6 +359,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &10168913 stripped
@@ -428,6 +438,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -586,6 +601,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -831,6 +851,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &20730632 stripped
@@ -989,6 +1014,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &23694659 stripped
@@ -1146,6 +1176,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -1333,6 +1368,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -1407,6 +1447,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -1537,6 +1582,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -1696,6 +1746,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &35963860 stripped
@@ -1771,6 +1826,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &40372971 stripped
@@ -1790,6 +1850,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -2410,6 +2475,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &63147833 stripped
@@ -2484,6 +2554,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -2757,6 +2832,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &69752798 stripped
@@ -2914,6 +2994,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -3100,6 +3185,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -3330,6 +3420,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 76518388}
   m_Mesh: {fileID: 4132265955339512075, guid: e33c76f1f21b36a41a44dae959bfcf30, type: 3}
+--- !u!1 &76564207
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 76564208}
+  m_Layer: 0
+  m_Name: -----Player-----
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &76564208
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76564207}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &76987625
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3397,6 +3518,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &76987626 stripped
@@ -3414,7 +3540,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 81624359}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Home
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3441,7 +3567,7 @@ Transform:
   - {fileID: 247274690}
   - {fileID: 1743268529}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &82472925
 GameObject:
@@ -3805,6 +3931,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -4028,6 +4159,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &90444807 stripped
@@ -4047,6 +4183,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -4427,6 +4568,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &98063480 stripped
@@ -4585,6 +4731,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &100678171 stripped
@@ -4660,6 +4811,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &100768717 stripped
@@ -4734,6 +4890,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -4967,6 +5128,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &112309017 stripped
@@ -5069,6 +5235,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -5199,6 +5370,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -5441,6 +5617,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &118817660 stripped
@@ -5515,6 +5696,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -5966,6 +6152,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &131080345 stripped
@@ -6149,7 +6340,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 134573390}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6253,6 +6444,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -6520,7 +6716,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 144619043}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6791,6 +6987,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &150372344 stripped
@@ -6949,6 +7150,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &151252817 stripped
@@ -7024,6 +7230,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &153232483 stripped
@@ -7098,6 +7309,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -7261,6 +7477,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: window (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204500917981630344, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755520066467751209, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433324301178297674, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f757bb7f4b27b674c886b445d82aa57f, type: 3}
@@ -7447,6 +7678,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -8060,6 +8296,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &171440616 stripped
@@ -8248,6 +8489,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -8699,6 +8945,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &182421356 stripped
@@ -8998,6 +9249,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -9305,6 +9561,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &191643218 stripped
@@ -9380,6 +9641,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &192492238 stripped
@@ -9399,6 +9665,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -9505,6 +9776,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -10227,6 +10503,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &204108843 stripped
@@ -10327,7 +10608,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 214804103}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10598,6 +10879,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &216296755 stripped
@@ -10755,6 +11041,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -11080,6 +11371,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &239270558 stripped
@@ -11154,6 +11450,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -11340,7 +11641,7 @@ GameObject:
   - component: {fileID: 244749265}
   - component: {fileID: 244749267}
   - component: {fileID: 244749266}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11453,7 +11754,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 247274690}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Home_Parquet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12515,7 +12816,7 @@ GameObject:
   - component: {fileID: 280922598}
   - component: {fileID: 280922600}
   - component: {fileID: 280922599}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shelf (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12737,6 +13038,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -13093,6 +13399,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -13306,6 +13617,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &300032184 stripped
@@ -13463,6 +13779,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -14028,6 +14349,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 317705156}
   m_Mesh: {fileID: -8121408913047150153, guid: e33c76f1f21b36a41a44dae959bfcf30, type: 3}
+--- !u!1 &319373273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 319373274}
+  m_Layer: 0
+  m_Name: -----Lights-----
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &319373274
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 319373273}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &322827972
 GameObject:
   m_ObjectHideFlags: 0
@@ -14177,6 +14529,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -14447,6 +14804,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -14576,6 +14938,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -14843,7 +15210,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 335065299}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14947,6 +15314,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -15315,6 +15687,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &342550270 stripped
@@ -15417,6 +15794,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -15674,6 +16056,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &349523721 stripped
@@ -15698,6 +16085,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -16259,6 +16651,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &364484340 stripped
@@ -16780,6 +17177,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &379005582 stripped
@@ -17270,6 +17672,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &385730741 stripped
@@ -17455,6 +17862,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -17668,6 +18080,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -17980,6 +18397,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -18391,6 +18813,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &414527419 stripped
@@ -18574,7 +19001,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 420691730}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Home_furniture
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18701,7 +19128,7 @@ GameObject:
   - component: {fileID: 423132876}
   - component: {fileID: 423132878}
   - component: {fileID: 423132877}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Chair03 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19172,6 +19599,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &433038038 stripped
@@ -19339,7 +19771,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &435447419
 GameObject:
@@ -19574,6 +20006,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &439997368 stripped
@@ -19649,6 +20086,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &448734018 stripped
@@ -19666,7 +20108,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 449928512}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19897,6 +20339,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &451779657 stripped
@@ -19971,6 +20418,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -20469,6 +20921,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &464133535 stripped
@@ -20488,6 +20945,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -21283,6 +21745,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &471531720 stripped
@@ -21471,6 +21938,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -21661,6 +22133,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &482151826 stripped
@@ -21735,6 +22212,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -21815,6 +22297,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: window (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204500917981630344, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755520066467751209, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433324301178297674, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f757bb7f4b27b674c886b445d82aa57f, type: 3}
@@ -22223,6 +22720,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &489619131 stripped
@@ -22630,6 +23132,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &498105457 stripped
@@ -22813,7 +23320,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 506496949}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Home_wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23102,6 +23609,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -23260,6 +23772,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -23332,7 +23849,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 520429752}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23759,6 +24276,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -24250,6 +24772,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &533342059 stripped
@@ -24324,6 +24851,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -24502,6 +25034,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -24576,6 +25113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -24883,6 +25425,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &547533705 stripped
@@ -24902,7 +25449,7 @@ GameObject:
   - component: {fileID: 549846573}
   - component: {fileID: 549846575}
   - component: {fileID: 549846574}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24986,6 +25533,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -25227,6 +25779,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -25529,6 +26086,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &559896148 stripped
@@ -25548,6 +26110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -25623,6 +26190,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -25781,6 +26353,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -26088,6 +26665,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &589399397 stripped
@@ -26246,6 +26828,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &590392384 stripped
@@ -26320,6 +26907,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -27319,6 +27911,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &622935675 stripped
@@ -27559,6 +28156,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -27967,6 +28569,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &635958516 stripped
@@ -28124,6 +28731,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -28615,6 +29227,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &650329176 stripped
@@ -28939,6 +29556,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &658083011 stripped
@@ -29097,6 +29719,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &675066286 stripped
@@ -29116,6 +29743,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -29274,6 +29906,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -29903,6 +30540,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &688554716 stripped
@@ -30092,6 +30734,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &697934492 stripped
@@ -30166,6 +30813,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -30384,6 +31036,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -30513,6 +31170,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -30700,6 +31362,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -30839,6 +31506,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -31080,6 +31752,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -31630,6 +32307,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 741425146}
   m_Mesh: {fileID: 3136016169336845825, guid: e33c76f1f21b36a41a44dae959bfcf30, type: 3}
+--- !u!1 &746877715
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 746877716}
+  m_Layer: 0
+  m_Name: -----Environment-----
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &746877716
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 746877715}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &751721804
 GameObject:
   m_ObjectHideFlags: 0
@@ -31724,6 +32432,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -31855,6 +32568,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &755249466 stripped
@@ -31972,6 +32690,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -32380,6 +33103,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &764854447 stripped
@@ -32537,6 +33265,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -33030,7 +33763,7 @@ GameObject:
   - component: {fileID: 796517700}
   - component: {fileID: 796517702}
   - component: {fileID: 796517701}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Spot Light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33200,6 +33933,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -33608,6 +34346,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &806674622 stripped
@@ -33877,6 +34620,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -34006,6 +34754,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -34275,6 +35028,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -34737,6 +35495,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -35437,6 +36200,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &856343454 stripped
@@ -35677,6 +36445,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -35993,6 +36766,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &862151751 stripped
@@ -36012,6 +36790,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -36179,6 +36962,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &868403055 stripped
@@ -36253,6 +37041,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -36412,6 +37205,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &871113185 stripped
@@ -36569,6 +37367,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -36811,6 +37614,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &878900292 stripped
@@ -36828,7 +37636,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 879318625}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37015,6 +37823,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -37410,7 +38223,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 897302219}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: wallll
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37449,7 +38262,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 897366690}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37636,6 +38449,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -37936,7 +38754,7 @@ GameObject:
   - component: {fileID: 908382933}
   - component: {fileID: 908382935}
   - component: {fileID: 908382934}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38273,6 +39091,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &911072967 stripped
@@ -38514,6 +39337,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &923526382 stripped
@@ -38589,6 +39417,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &924310855 stripped
@@ -38663,6 +39496,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -38766,7 +39604,7 @@ GameObject:
   - component: {fileID: 925590626}
   - component: {fileID: 925590628}
   - component: {fileID: 925590627}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38988,6 +39826,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -39817,7 +40660,7 @@ GameObject:
   - component: {fileID: 948790161}
   - component: {fileID: 948790163}
   - component: {fileID: 948790162}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shelf (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39984,6 +40827,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -40447,6 +41295,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &966155877 stripped
@@ -40522,6 +41375,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &966454577 stripped
@@ -40596,6 +41454,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -41161,6 +42024,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &974878628 stripped
@@ -41318,6 +42186,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -41670,6 +42543,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -42077,7 +42955,7 @@ GameObject:
   - component: {fileID: 987929509}
   - component: {fileID: 987929511}
   - component: {fileID: 987929510}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42242,7 +43120,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 989202639}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42374,6 +43252,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -42885,6 +43768,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: window (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2204500917981630344, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755520066467751209, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433324301178297674, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f757bb7f4b27b674c886b445d82aa57f, type: 3}
 --- !u!4 &1021216845 stripped
@@ -42959,6 +43857,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -43035,6 +43938,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1030295478 stripped
@@ -43109,6 +44017,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -43210,7 +44123,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1034604405}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43398,6 +44311,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1037609367 stripped
@@ -43472,6 +44390,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -43658,6 +44581,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -44536,6 +45464,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1067293458 stripped
@@ -44974,6 +45907,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1074854999 stripped
@@ -45048,6 +45986,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -45404,6 +46347,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1094056279 stripped
@@ -45423,6 +46371,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -45498,6 +46451,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -45656,7 +46614,7 @@ GameObject:
   - component: {fileID: 1101642012}
   - component: {fileID: 1101642014}
   - component: {fileID: 1101642013}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Spot Light (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45827,6 +46785,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1102472602 stripped
@@ -45985,6 +46948,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1105994375 stripped
@@ -46027,7 +46995,7 @@ Transform:
   - {fileID: 779790293}
   - {fileID: 1662100970}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1108645540
 BoxCollider:
@@ -46715,7 +47683,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1124182463}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46819,6 +47787,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -47061,6 +48034,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1129923117 stripped
@@ -47078,7 +48056,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1129926708}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47265,6 +48243,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -47478,10 +48461,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1256869044, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1745936865, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1983757605, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 3971822186604657560, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3971822186604657560, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
         type: 3}
@@ -47537,51 +48532,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187665789196, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_Range
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0.5082325
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0.6716023
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0.764151
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_Intensity
-      value: 150
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_SpotAngle
-      value: 53.98711
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_InnerSpotAngle
-      value: 18.180279
-      objectReference: {fileID: 0}
-    - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-        type: 3}
-      propertyPath: m_ColorTemperature
-      value: 3621
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
@@ -47734,6 +48684,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -48086,6 +49041,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -48498,6 +49458,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -48961,6 +49926,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1176684005 stripped
@@ -49202,6 +50172,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1191048809 stripped
@@ -49359,6 +50334,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -50434,6 +51414,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1226006752 stripped
@@ -50868,7 +51853,7 @@ GameObject:
   - component: {fileID: 1235896354}
   - component: {fileID: 1235896356}
   - component: {fileID: 1235896355}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51931,6 +52916,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1255484015 stripped
@@ -52171,6 +53161,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -52413,6 +53408,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1270183559 stripped
@@ -52515,6 +53515,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -52646,6 +53651,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1274602579 stripped
@@ -52720,6 +53730,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -53133,6 +54148,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: window (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2204500917981630344, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755520066467751209, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433324301178297674, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f757bb7f4b27b674c886b445d82aa57f, type: 3}
 --- !u!4 &1280265936 stripped
@@ -53250,6 +54280,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -53492,6 +54527,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1292736713 stripped
@@ -53650,6 +54690,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1295785621 stripped
@@ -53724,6 +54769,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -53800,6 +54850,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1298340189 stripped
@@ -53874,6 +54929,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -53978,6 +55038,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -54052,7 +55117,7 @@ GameObject:
   - component: {fileID: 1306909313}
   - component: {fileID: 1306909315}
   - component: {fileID: 1306909314}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54167,6 +55232,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -54298,6 +55368,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1309898088 stripped
@@ -54372,6 +55447,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -54448,6 +55528,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1313239143 stripped
@@ -54467,6 +55552,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -54940,6 +56030,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1326250397 stripped
@@ -55087,6 +56182,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -55455,6 +56555,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1338203945 stripped
@@ -55472,7 +56577,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1339571465}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55576,6 +56681,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -56067,6 +57177,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1352563857 stripped
@@ -56503,6 +57618,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -57009,6 +58129,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1368810194 stripped
@@ -57193,7 +58318,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 50, y: -10, z: 0}
 --- !u!114 &1374401803
 MonoBehaviour:
@@ -57519,6 +58644,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -57649,6 +58779,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1380498054 stripped
@@ -57724,6 +58859,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1383161502 stripped
@@ -57743,6 +58883,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -57873,6 +59018,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -58312,6 +59462,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1393392706 stripped
@@ -58374,6 +59529,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -58530,7 +59690,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1398002772}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58717,6 +59877,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -58959,6 +60124,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1402039043 stripped
@@ -59117,6 +60287,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1404917289 stripped
@@ -59191,6 +60366,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -59838,6 +61018,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1431083096 stripped
@@ -59913,6 +61098,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1433304663 stripped
@@ -59932,6 +61122,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -60228,6 +61423,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -60869,7 +62069,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1458156186}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61257,6 +62457,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1469275813 stripped
@@ -61332,6 +62537,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1469469506 stripped
@@ -61406,6 +62616,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -61565,6 +62780,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1472791480 stripped
@@ -61639,6 +62859,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -61963,6 +63188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -62414,6 +63644,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1490117368 stripped
@@ -62572,6 +63807,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1490460766 stripped
@@ -62646,6 +63886,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -62804,6 +64049,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -63520,6 +64770,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -63770,7 +65025,7 @@ GameObject:
   - component: {fileID: 1522576770}
   - component: {fileID: 1522576772}
   - component: {fileID: 1522576771}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63938,6 +65193,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -64068,6 +65328,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1530040789 stripped
@@ -64142,6 +65407,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -64426,6 +65696,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -64834,6 +66109,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1538156547 stripped
@@ -64991,6 +66271,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -65233,6 +66518,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1549841488 stripped
@@ -65335,6 +66625,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -65466,6 +66761,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1552899868 stripped
@@ -65540,6 +66840,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -65979,6 +67284,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1567070546 stripped
@@ -66053,6 +67363,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -66295,6 +67610,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1571239260 stripped
@@ -66369,6 +67689,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -66445,6 +67770,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1580172915 stripped
@@ -66520,6 +67850,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1582055057 stripped
@@ -66594,6 +67929,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -66835,6 +68175,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -67243,6 +68588,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1588852827 stripped
@@ -67317,6 +68667,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -67558,6 +68913,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -67997,6 +69357,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1605527196 stripped
@@ -68321,6 +69686,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1613285284 stripped
@@ -68426,6 +69796,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -68710,6 +70085,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1623127605 stripped
@@ -68785,6 +70165,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1623186049 stripped
@@ -68802,7 +70187,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1623987101}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68856,6 +70241,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -69029,6 +70419,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -69419,6 +70814,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1630642990 stripped
@@ -69493,6 +70893,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -69600,6 +71005,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1638701437 stripped
@@ -69674,6 +71084,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -69861,6 +71276,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -69991,6 +71411,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1647198724 stripped
@@ -70010,6 +71435,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -70151,6 +71581,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1658618291 stripped
@@ -70230,6 +71665,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: window (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204500917981630344, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755520066467751209, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433324301178297674, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f757bb7f4b27b674c886b445d82aa57f, type: 3}
@@ -70921,6 +72371,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -71525,6 +72980,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1685396373 stripped
@@ -71599,6 +73059,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -71774,124 +73239,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1691049178}
   m_Mesh: {fileID: 1984966926222539217, guid: e33c76f1f21b36a41a44dae959bfcf30, type: 3}
---- !u!1 &1691624844
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1691624847}
-  - component: {fileID: 1691624846}
-  - component: {fileID: 1691624845}
-  - component: {fileID: 1691624848}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!81 &1691624845
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1691624844}
-  m_Enabled: 1
---- !u!20 &1691624846
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1691624844}
-  m_Enabled: 0
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!4 &1691624847
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1691624844}
-  m_LocalRotation: {x: 0.5235186, y: -0, z: -0, w: 0.8520142}
-  m_LocalPosition: {x: 482, y: 163, z: 574.18}
-  m_LocalScale: {x: 1, y: 1.0000001, z: 0.99999994}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 63.137, y: 0, z: 0}
---- !u!114 &1691624848
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1691624844}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_RenderShadows: 1
-  m_RequiresDepthTextureOption: 2
-  m_RequiresOpaqueTextureOption: 2
-  m_CameraType: 0
-  m_Cameras: []
-  m_RendererIndex: -1
-  m_VolumeLayerMask:
-    serializedVersion: 2
-    m_Bits: 1
-  m_VolumeTrigger: {fileID: 0}
-  m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 1
-  m_Antialiasing: 0
-  m_AntialiasingQuality: 2
-  m_StopNaN: 0
-  m_Dithering: 0
-  m_ClearDepth: 1
-  m_AllowXRRendering: 1
-  m_RequiresDepthTexture: 0
-  m_RequiresColorTexture: 0
-  m_Version: 2
 --- !u!1 &1692306919
 GameObject:
   m_ObjectHideFlags: 0
@@ -71987,7 +73334,7 @@ GameObject:
   - component: {fileID: 1693674236}
   - component: {fileID: 1693674235}
   - component: {fileID: 1693674234}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: mainParquetallPlane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72292,10 +73639,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 4008541929790281808, guid: 67bc2590c6dafb744b9e1f0dab82bf95,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4264589912594813419, guid: 67bc2590c6dafb744b9e1f0dab82bf95,
         type: 3}
       propertyPath: m_Name
       value: lp (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4264589912594813419, guid: 67bc2590c6dafb744b9e1f0dab82bf95,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 67bc2590c6dafb744b9e1f0dab82bf95, type: 3}
@@ -72532,6 +73889,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1707765271 stripped
@@ -72607,6 +73969,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1708426499 stripped
@@ -72626,7 +73993,7 @@ GameObject:
   - component: {fileID: 1708514159}
   - component: {fileID: 1708514161}
   - component: {fileID: 1708514160}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72848,6 +74215,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -73173,6 +74545,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1713075671 stripped
@@ -73247,6 +74624,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -73405,6 +74787,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -73647,6 +75034,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1729066297 stripped
@@ -73805,6 +75197,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1730063256 stripped
@@ -73879,6 +75276,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -73955,6 +75357,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1733179831 stripped
@@ -73974,6 +75381,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -74049,6 +75461,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -74205,7 +75622,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1743268529}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u0130n_Home"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74543,6 +75960,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -74911,6 +76333,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1757809416 stripped
@@ -75002,6 +76429,117 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1760690557}
   m_Mesh: {fileID: -1713362208742201128, guid: e33c76f1f21b36a41a44dae959bfcf30, type: 3}
+--- !u!1 &1761597685
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1761597690}
+  - component: {fileID: 1761597689}
+  - component: {fileID: 1761597688}
+  - component: {fileID: 1761597687}
+  - component: {fileID: 1761597691}
+  m_Layer: 0
+  m_Name: Battery
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &1761597687
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761597685}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1761597688
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761597685}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1761597689
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761597685}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1761597690
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761597685}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 609.65, y: 1.361, z: 583.7163}
+  m_LocalScale: {x: 1.8640566, y: 1.8640566, z: 1.8640566}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1761597691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761597685}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 110787ccc087708499577c2d001ed87f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flashLightSO: {fileID: 11400000, guid: 865cc568af008544e84c6d1fd008aa91, type: 2}
 --- !u!1 &1762326471
 GameObject:
   m_ObjectHideFlags: 0
@@ -75260,7 +76798,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1763512191}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75309,6 +76847,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -75546,7 +77089,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1765439547
 GameObject:
@@ -75781,6 +77324,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1766871337 stripped
@@ -75966,6 +77514,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -76389,6 +77942,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1774653955 stripped
@@ -76408,7 +77966,7 @@ GameObject:
   - component: {fileID: 1775556877}
   - component: {fileID: 1775556879}
   - component: {fileID: 1775556878}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76548,6 +78106,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1777493907 stripped
@@ -76567,7 +78130,7 @@ GameObject:
   - component: {fileID: 1779925727}
   - component: {fileID: 1779925729}
   - component: {fileID: 1779925728}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76649,7 +78212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1781481002}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: wallll (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76690,6 +78253,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -76821,6 +78389,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1785815589 stripped
@@ -76896,6 +78469,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1786181886 stripped
@@ -76970,6 +78548,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -77421,6 +79004,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1798497447 stripped
@@ -77650,7 +79238,7 @@ GameObject:
   - component: {fileID: 1803571186}
   - component: {fileID: 1803571188}
   - component: {fileID: 1803571187}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77789,6 +79377,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -78489,6 +80082,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1815512139 stripped
@@ -78813,6 +80411,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1820016493 stripped
@@ -78887,6 +80490,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -79218,6 +80826,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1823763948 stripped
@@ -79403,7 +81016,7 @@ GameObject:
   - component: {fileID: 1829114189}
   - component: {fileID: 1829114191}
   - component: {fileID: 1829114190}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_9 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79542,6 +81155,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -79771,6 +81389,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -79900,6 +81523,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -80742,7 +82370,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1861374776}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80889,6 +82517,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -81130,6 +82763,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -81376,6 +83014,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: window (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204500917981630344, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755520066467751209, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433324301178297674, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f757bb7f4b27b674c886b445d82aa57f, type: 3}
@@ -81700,6 +83353,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -82053,6 +83711,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -82294,6 +83957,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -82506,6 +84174,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -82913,6 +84586,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -83404,6 +85082,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1921929340 stripped
@@ -83561,6 +85244,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -83886,6 +85574,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1937400277 stripped
@@ -83960,6 +85653,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -84189,6 +85887,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -84428,7 +86131,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1955789970}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84475,7 +86178,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1958891885}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84788,6 +86491,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &1962140660 stripped
@@ -84863,6 +86571,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: window (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2204500917981630344, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755520066467751209, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433324301178297674, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f757bb7f4b27b674c886b445d82aa57f, type: 3}
 --- !u!4 &1962454667 stripped
@@ -84880,7 +86603,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1963599631}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85053,7 +86776,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1965409910}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parquetall (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85366,6 +87089,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -86564,6 +88292,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &2002137743 stripped
@@ -86888,6 +88621,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &2008413237 stripped
@@ -86962,6 +88700,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -87065,6 +88808,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -87205,6 +88953,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -87446,6 +89199,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -87964,7 +89722,7 @@ GameObject:
   - component: {fileID: 2032468704}
   - component: {fileID: 2032468706}
   - component: {fileID: 2032468705}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88048,6 +89806,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -88261,6 +90024,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -88530,7 +90298,7 @@ GameObject:
   - component: {fileID: 2046259622}
   - component: {fileID: 2046259624}
   - component: {fileID: 2046259623}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88778,7 +90546,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2058706747}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88900,6 +90668,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -89036,6 +90809,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &2059967404 stripped
@@ -89138,6 +90916,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -89377,7 +91160,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2070965070}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Home_windows
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89545,6 +91328,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -89674,6 +91462,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -90058,6 +91851,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -90281,6 +92079,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &2093810253 stripped
@@ -90439,6 +92242,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &2095209831 stripped
@@ -90513,6 +92321,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -90845,6 +92658,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -91085,6 +92903,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -91327,6 +93150,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: home_wall (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
       propertyPath: m_RootOrder
@@ -91487,6 +93315,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: parquets (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
@@ -91855,6 +93688,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &2137672673 stripped
@@ -92200,7 +94038,7 @@ GameObject:
   - component: {fileID: 5668997545055567534}
   - component: {fileID: 7998701926186310392}
   - component: {fileID: 2751029598993490468}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Chair01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92274,7 +94112,7 @@ GameObject:
   - component: {fileID: 1735253437220304705}
   - component: {fileID: 2666682245696610915}
   - component: {fileID: 4417261858048406652}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92318,7 +94156,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &543450653201518082 stripped
 Transform:
@@ -92612,7 +94450,7 @@ GameObject:
   - component: {fileID: 543450651677920150}
   - component: {fileID: 3469287837608215603}
   - component: {fileID: 1711813854954549497}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shelf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92646,7 +94484,7 @@ GameObject:
   - component: {fileID: 543450653690451543}
   - component: {fileID: 3469287837472610802}
   - component: {fileID: 1711813855626374456}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: houseSmall_roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92720,7 +94558,7 @@ GameObject:
   - component: {fileID: 8205703658579383336}
   - component: {fileID: 4078796033470590382}
   - component: {fileID: 6563151274694760951}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93036,6 +94874,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: window
       objectReference: {fileID: 0}
+    - target: {fileID: 2204500917981630344, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755520066467751209, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433324301178297674, guid: f757bb7f4b27b674c886b445d82aa57f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f757bb7f4b27b674c886b445d82aa57f, type: 3}
 --- !u!33 &1329230731542144287
@@ -93057,7 +94910,7 @@ GameObject:
   - component: {fileID: 9217917932788081146}
   - component: {fileID: 2543072443250358047}
   - component: {fileID: 8978930452809479555}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u0448\u0430\u043F\u043A\u0430001"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93592,7 +95445,7 @@ GameObject:
   - component: {fileID: 5007336448312612033}
   - component: {fileID: 1403743030226610784}
   - component: {fileID: 2954733971022297021}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u0446\u0438\u0444\u0435\u0440\u0431\u043B\u0430\u0442001"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93886,7 +95739,7 @@ GameObject:
   - component: {fileID: 353163985268747157}
   - component: {fileID: 1021195696777233505}
   - component: {fileID: 8347360186228598093}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94044,7 +95897,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3147767217818233884}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: old_clock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94286,7 +96139,7 @@ GameObject:
   - component: {fileID: 6251640471322435524}
   - component: {fileID: 1051168976788137406}
   - component: {fileID: 1201590877289211913}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Chair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94708,7 +96561,7 @@ GameObject:
   - component: {fileID: 3252960605452725908}
   - component: {fileID: 2728124188526415718}
   - component: {fileID: 7926581011588931474}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Table
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94982,7 +96835,7 @@ GameObject:
   - component: {fileID: 7228616304048869100}
   - component: {fileID: 379564932742024100}
   - component: {fileID: 2138496713728547052}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95058,7 +96911,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4276207325997965736}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Next_Level_Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95311,7 +97164,7 @@ GameObject:
   - component: {fileID: 6391379770953486254}
   - component: {fileID: 2344517367215436273}
   - component: {fileID: 4254770322882930133}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u043F\u043E\u0434\u0441\u0442\u0430\u0432\u043A\u0430001"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95491,10 +97344,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4008541929790281808, guid: 67bc2590c6dafb744b9e1f0dab82bf95,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4264589912594813419, guid: 67bc2590c6dafb744b9e1f0dab82bf95,
         type: 3}
       propertyPath: m_Name
       value: lp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4264589912594813419, guid: 67bc2590c6dafb744b9e1f0dab82bf95,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 67bc2590c6dafb744b9e1f0dab82bf95, type: 3}
@@ -95595,7 +97458,7 @@ GameObject:
   - component: {fileID: 6119329167084689663}
   - component: {fileID: 1652890547403044149}
   - component: {fileID: 6999224767528272323}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95893,7 +97756,7 @@ GameObject:
   - component: {fileID: 6339033181994751627}
   - component: {fileID: 2431821943232811129}
   - component: {fileID: 6102247307783847248}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u043D\u0438\u0437001"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96028,7 +97891,7 @@ GameObject:
   - component: {fileID: 2342463329265304675}
   - component: {fileID: 7600371253238609236}
   - component: {fileID: 545144609979267632}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u0434\u0432\u0435\u0440\u044C001"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96191,7 +98054,7 @@ GameObject:
   - component: {fileID: 2234775527896070479}
   - component: {fileID: 8724876244257775273}
   - component: {fileID: 2473241633131255064}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u043A\u043E\u0440\u043F\u0443\u0441001"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96233,7 +98096,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5530806218477315835}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96471,7 +98334,7 @@ GameObject:
   - component: {fileID: 1819607967843090758}
   - component: {fileID: 3106979807274974386}
   - component: {fileID: 5066326209836632504}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Object001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96504,6 +98367,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: home_wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 5845935000822299054, guid: 1257826467a2980429dd57fe34f92729,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8408113048810569928, guid: 1257826467a2980429dd57fe34f92729,
         type: 3}
@@ -97102,7 +98970,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5893964402885161777}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Round table and chairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97379,7 +99247,7 @@ GameObject:
   - component: {fileID: 5028262091411035562}
   - component: {fileID: 2740587078608071349}
   - component: {fileID: 2599816100658496723}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97397,7 +99265,7 @@ GameObject:
   - component: {fileID: 6872766901729631941}
   - component: {fileID: 4758048481373057474}
   - component: {fileID: 1790968209373892515}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Chair03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97479,7 +99347,7 @@ GameObject:
   - component: {fileID: 5758831993107311837}
   - component: {fileID: 2015583662495339194}
   - component: {fileID: 2831065781764372913}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: table
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97940,7 +99808,7 @@ GameObject:
   - component: {fileID: 8025739977751701026}
   - component: {fileID: 5091784668859533962}
   - component: {fileID: 6213760346753732239}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u043C\u0430\u044F\u0442\u043D\u0438\u043A001"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98069,7 +99937,7 @@ GameObject:
   - component: {fileID: 7072608691625770440}
   - component: {fileID: 6163510018357244525}
   - component: {fileID: 8245485075394610855}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Main_Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98289,7 +100157,7 @@ GameObject:
   - component: {fileID: 4590444228829521168}
   - component: {fileID: 6531466471064145299}
   - component: {fileID: 2184338079676459192}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98819,7 +100687,7 @@ GameObject:
   - component: {fileID: 7132059890915935551}
   - component: {fileID: 7072032189988986032}
   - component: {fileID: 5484085013666565449}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "\u0441\u0442\u0435\u043A\u043B\u043E001"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -99208,7 +101076,7 @@ GameObject:
   - component: {fileID: 5297278255526950054}
   - component: {fileID: 1960382962876977715}
   - component: {fileID: 7073072290373110292}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Chair02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -99433,6 +101301,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: parquets
       objectReference: {fileID: 0}
+    - target: {fileID: 8951933552962337168, guid: 86ded1a7b28f85e459cf21b69656e0aa,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86ded1a7b28f85e459cf21b69656e0aa, type: 3}
 --- !u!4 &9053533126983043543 stripped
@@ -99582,7 +101455,7 @@ GameObject:
   - component: {fileID: 75730452508278266}
   - component: {fileID: 2409725118513606034}
   - component: {fileID: 2824480384770158841}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book_pack_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}

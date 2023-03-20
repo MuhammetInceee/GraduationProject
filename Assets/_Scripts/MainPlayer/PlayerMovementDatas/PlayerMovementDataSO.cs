@@ -5,7 +5,7 @@ using UnityEngine.Serialization;
 
 namespace MainPlayer.Data
 {
-    [CreateAssetMenu(fileName = "PlayerMovementData", menuName = "Data/PlayerMovementData")]
+    [CreateAssetMenu(fileName = "PlayerMovementData", menuName = "MainPlayer/Data/PlayerMovementData")]
 
     public class PlayerMovementDataSO : ScriptableObject
     {
