@@ -27,6 +27,11 @@ namespace Mouse.Interact
                 {
                     collectable.Execute();
                 }
+
+                if (nearestGameObject.TryGetComponent(out IInteractable interactable))
+                {
+                    interactable.Execute();
+                }
             }
         }
 

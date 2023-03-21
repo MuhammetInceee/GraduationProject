@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 110787ccc087708499577c2d001ed87f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flashLightSO: {fileID: 11400000, guid: 865cc568af008544e84c6d1fd008aa91, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

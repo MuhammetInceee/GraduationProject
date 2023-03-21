@@ -8,22 +8,19 @@ namespace MainPlayer.FlashLight
     {
         private const float BatteryCapacity = 100f;
         private float _batteryLevel;
-        private FlashLightSO _flashLightSO;
-
-        [SerializeField] private Slider batterySlider;
-        [SerializeField] private Light flashlight;
-
-
-        public float batteryFillSpeed = 10;
-        public float batteryUseSpeed = 2;
+        private FlashLightSO _flashLightSettings;
+        private Light _flashlight;
         
+
+        [Header("About UI")]
+        [SerializeField] private Slider batterySlider;
+        [SerializeField] private TextMeshProUGUI batteryText;
 
         void Awake()
         {
-            InitVariable();
             ReadDataFromResource();
-            
-            _flashLightSO.InitVariables();
+            InitVariable();
+            _flashLightSettings.InitVariables(batteryText);
         }
 
         void Update()
@@ -37,6 +34,7 @@ namespace MainPlayer.FlashLight
 
         private void InitVariable()
         {
+            _flashlight = GetComponent<Light>();
             _batteryLevel = BatteryCapacity;
             batterySlider.maxValue = BatteryCapacity;
             batterySlider.value = BatteryCapacity;
@@ -44,7 +42,7 @@ namespace MainPlayer.FlashLight
 
         private void ReadDataFromResource()
         {
-            _flashLightSO = Resources.Load<FlashLightSO>("Flashlight/FlashlightData");
+            _flashLightSettings = Resources.Load<FlashLightSO>("Flashlight/FlashlightData");
         }
 
         #endregion
@@ -53,25 +51,25 @@ namespace MainPlayer.FlashLight
 
         private void HandleFlashlightBattery()
         {
-            if (flashlight.enabled)
+            if (_flashlight.enabled)
             {
-                _batteryLevel -= Time.deltaTime *  batteryUseSpeed;
+                _batteryLevel -= Time.deltaTime *  _flashLightSettings.BatteryUseSpeed;
                 batterySlider.value = _batteryLevel;
                 if (_batteryLevel <= 0f)
                 {
-                    flashlight.enabled = false;
+                    _flashlight.enabled = false;
                 }
             }
         }
 
         private void RefillBattery()
         {
-            if (Input.GetKeyDown(KeyCode.R) && _flashLightSO.BatteryCount > 0)
+            if (Input.GetKeyDown(KeyCode.R) && _flashLightSettings.BatteryCount > 0)
             {
                 _batteryLevel = 100f;
                 batterySlider.value = _batteryLevel;
                 FillBattery();
-                _flashLightSO.UseBattery();
+                _flashLightSettings.UseBattery();
             }
         }
 
@@ -79,7 +77,7 @@ namespace MainPlayer.FlashLight
         {
             if (Input.GetKeyDown(KeyCode.F))
             {
-                flashlight.enabled = !flashlight.enabled;
+                _flashlight.enabled = !_flashlight.enabled;
             }
         }
 
@@ -87,7 +85,7 @@ namespace MainPlayer.FlashLight
         {
             while (_batteryLevel < BatteryCapacity)
             {
-                _batteryLevel += Time.deltaTime * batteryFillSpeed;
+                _batteryLevel += Time.deltaTime * _flashLightSettings.BatteryFillSpeed;
                 _batteryLevel = Mathf.Min(_batteryLevel, BatteryCapacity);
                 batterySlider.value = _batteryLevel;
                 if (_batteryLevel >= BatteryCapacity)
