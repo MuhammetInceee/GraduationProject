@@ -11,7 +11,6 @@ namespace Game.InteractableObjects
         public void Execute()
         {
             SceneManager.LoadScene(sceneName.ToString());
-            
         }
     }
 

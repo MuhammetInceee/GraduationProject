@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Game.InteractableObjects
 {
-    public class Keys : MonoBehaviour, ICollectable
+    public class NormalKey : MonoBehaviour, ICollectable
     {
         private int _buy;
 
