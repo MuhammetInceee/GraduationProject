@@ -8,6 +8,7 @@ namespace Game.InteractableObjects
     public class MainDoor : MonoBehaviour, IInteractable
     {
         [SerializeField] private KeyInventorySO keyInventory;
+        [SerializeField] private Transform teleportTargetTr;
         
         private CharacterController _player;
         private Collider _collider;
@@ -23,9 +24,10 @@ namespace Game.InteractableObjects
         {
             if(keyInventory.normalKey <= 0) return;
             keyInventory.UseKey(true);
-            _collider.enabled = false;
-            _player.Move(transform.right * -5);
-            _collider.enabled = true;
+            
+            _player.enabled = false;
+            _player.transform.position = teleportTargetTr.position;
+            _player.enabled = true;
         }
     }
 }
