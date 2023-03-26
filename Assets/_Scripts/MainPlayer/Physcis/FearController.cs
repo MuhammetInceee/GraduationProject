@@ -7,7 +7,7 @@ namespace MainPlayer.Physics
 {
     public class FearController : MonoBehaviour
     {
-        public Slider fearSlider;
+        public Image fearImage;
         public float fearDecreaseRate = 0.5f;
         public float maxFear = 100f;
         public float wrongWayFearIncreaseRate = 0.1f;
@@ -17,10 +17,8 @@ namespace MainPlayer.Physics
 
         void Start()
         {
-            // Slider Ayarları
-            fearSlider.minValue = 0f;
-            fearSlider.maxValue = maxFear;
-            fearSlider.value = _currentFear;
+            
+            fearImage.fillAmount = _currentFear / maxFear;
         }
 
         void Update()
@@ -31,10 +29,10 @@ namespace MainPlayer.Physics
                 ? Mathf.Clamp(_currentFear + (wrongWayFearIncreaseRate * Time.deltaTime), 0f, maxFear)
                 : Mathf.Clamp(_currentFear - (fearDecreaseRate * Time.deltaTime), 0f, maxFear);
 
-            fearSlider.value = _currentFear;
+            fearImage.fillAmount = _currentFear / maxFear;
         }
 
-        void OnTriggerEnter(Collider other)
+        void OnTriggerStay(Collider other)
         {
             if (other.gameObject.CompareTag("WrongWay"))
             {

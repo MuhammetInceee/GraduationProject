@@ -10,10 +10,9 @@ namespace MainPlayer.FlashLight
         private float _batteryLevel;
         private FlashLightSO _flashLightSettings;
         private Light _flashlight;
-        
 
         [Header("About UI")]
-        [SerializeField] private Slider batterySlider;
+        [SerializeField] private Image batteryImage;
         [SerializeField] private TextMeshProUGUI batteryText;
 
         void Awake()
@@ -36,8 +35,7 @@ namespace MainPlayer.FlashLight
         {
             _flashlight = GetComponent<Light>();
             _batteryLevel = BatteryCapacity;
-            batterySlider.maxValue = BatteryCapacity;
-            batterySlider.value = BatteryCapacity;
+            batteryImage.fillAmount = 1f;
         }
 
         private void ReadDataFromResource()
@@ -46,15 +44,15 @@ namespace MainPlayer.FlashLight
         }
 
         #endregion
-        
+
         #region Update Methods
 
         private void HandleFlashlightBattery()
         {
             if (_flashlight.enabled)
             {
-                _batteryLevel -= Time.deltaTime *  _flashLightSettings.BatteryUseSpeed;
-                batterySlider.value = _batteryLevel;
+                _batteryLevel -= Time.deltaTime * _flashLightSettings.BatteryUseSpeed;
+                batteryImage.fillAmount = _batteryLevel / BatteryCapacity;
                 if (_batteryLevel <= 0f)
                 {
                     _flashlight.enabled = false;
@@ -66,8 +64,8 @@ namespace MainPlayer.FlashLight
         {
             if (Input.GetKeyDown(KeyCode.R) && _flashLightSettings.BatteryCount > 0)
             {
-                _batteryLevel = 100f;
-                batterySlider.value = _batteryLevel;
+                _batteryLevel = BatteryCapacity;
+                batteryImage.fillAmount = 1f;
                 FillBattery();
                 _flashLightSettings.UseBattery();
             }
@@ -87,7 +85,7 @@ namespace MainPlayer.FlashLight
             {
                 _batteryLevel += Time.deltaTime * _flashLightSettings.BatteryFillSpeed;
                 _batteryLevel = Mathf.Min(_batteryLevel, BatteryCapacity);
-                batterySlider.value = _batteryLevel;
+                batteryImage.fillAmount = _batteryLevel / BatteryCapacity;
                 if (_batteryLevel >= BatteryCapacity)
                 {
                     break;
@@ -96,6 +94,5 @@ namespace MainPlayer.FlashLight
         }
 
         #endregion
-        
     }
 }
