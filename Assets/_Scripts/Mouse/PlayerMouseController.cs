@@ -44,11 +44,11 @@ namespace Mouse.PlayerInput
 
         void Update()
         {
-            if (Input.GetKeyDown(KeyCode.LeftShift))
-            {
-                canFallow = !canFallow;
-            }
-            if(!canFallow) return;
+            // if (Input.GetKeyDown(KeyCode.LeftShift))
+            // {
+            //     canFallow = !canFallow;
+            // }
+            // if(!canFallow) return;
             MouseController();
             HandleZoom();
         }

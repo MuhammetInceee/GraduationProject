@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: KeyBinds
   m_EditorClassIdentifier: 
   jumpKeys: 20000000
-  crouchKeys: 32010000
+  crouchKeys: 00000000
   interactKey: 65000000
   zoomKeys: 44010000
