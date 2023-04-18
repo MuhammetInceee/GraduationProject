@@ -15,3 +15,4 @@ MonoBehaviour:
   walkSpeed: 5
   crouchWalkSpeed: 0.2
   jumpHeight: 2
+  mouseSensitivity: 100

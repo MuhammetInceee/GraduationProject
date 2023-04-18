@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using KeyBinds;
+using MainPlayer.Data;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -10,15 +11,12 @@ namespace Mouse.PlayerInput
     public class PlayerMouseController : MonoBehaviour
     {
         private bool canFallow = true;
-
-        [SerializeField] private float sensitivity = 100f;
+        private PlayerMovementDataSO _playerMovementData;
+        
         [SerializeField] private Transform playerBody;
         private float _xRotationCamera = 0f;
         private Camera _playerCamera;
         private KeyBindsSO _keyBinds;
-        
-        
-        
         
         
         [Header("Zoom Parameters")]
@@ -32,37 +30,51 @@ namespace Mouse.PlayerInput
 
         private void Start()
         {
-            Cursor.visible = false;
-            Cursor.lockState = CursorLockMode.Locked;
-            _playerCamera = GetComponent<Camera>();
-            _keyBinds = Resources.Load<KeyBindsSO>("KeyBinds/KeyBinds");
-            
-            _defaultYPos = _playerCamera.transform.localPosition.y;
-            _defaultFOV = _playerCamera.fieldOfView;
-            
+            ResourceReadData();
+            GetReferences();
+            InitVariables();
         }
 
         void Update()
         {
-            // if (Input.GetKeyDown(KeyCode.LeftShift))
-            // {
-            //     canFallow = !canFallow;
-            // }
-            // if(!canFallow) return;
             MouseController();
             HandleZoom();
         }
 
         private void MouseController()
         {
-            float mouseX = Input.GetAxis("Mouse X") * sensitivity * Time.deltaTime;
-            float mouseY = Input.GetAxis("Mouse Y") * sensitivity * Time.deltaTime;
+            float mouseX = Input.GetAxis("Mouse X") * _playerMovementData.MouseSensitivity * Time.deltaTime;
+            float mouseY = Input.GetAxis("Mouse Y") * _playerMovementData.MouseSensitivity * Time.deltaTime;
 
             _xRotationCamera -= mouseY;
             _xRotationCamera = Mathf.Clamp(_xRotationCamera, 0, 140);
             transform.localRotation = Quaternion.Euler(_xRotationCamera, 0f, 0f);
             playerBody.Rotate(Vector3.up * mouseX);
         }
+
+        #region Initializers
+
+        private void ResourceReadData()
+        {
+            _keyBinds = Resources.Load<KeyBindsSO>("KeyBinds/KeyBinds");
+            _playerMovementData = Resources.Load<PlayerMovementDataSO>("MainPlayer/PlayerMovementData");
+        }
+
+        private void GetReferences()
+        {
+            _playerCamera = GetComponent<Camera>();
+        }
+
+        private void InitVariables()
+        {
+            Cursor.visible = false;
+            Cursor.lockState = CursorLockMode.Locked;
+            
+            _defaultYPos = _playerCamera.transform.localPosition.y;
+            _defaultFOV = _playerCamera.fieldOfView;
+        }
+
+        #endregion
 
         #region CameraZoom
 

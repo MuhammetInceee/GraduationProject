@@ -10,14 +10,20 @@ namespace MainPlayer.Data
     public class PlayerMovementDataSO : ScriptableObject
     {
         internal float PlayerSpeed;
-
+        
+        [Header("Movement Parameters")]
         [SerializeField] private float walkSpeed;
         public float WalkSpeed => walkSpeed;
 
         [SerializeField] private float crouchWalkSpeed;
         public float CrouchWalkSpeed => crouchWalkSpeed;
 
-        [FormerlySerializedAs("jumpForce")] [SerializeField] private float jumpHeight;
+        [SerializeField] private float jumpHeight;
         public float JumpHeight => jumpHeight;
+        
+        [Header("Mouse Parameters")]
+
+        [SerializeField] private float mouseSensitivity;
+        public float MouseSensitivity => mouseSensitivity;
     }
 }
