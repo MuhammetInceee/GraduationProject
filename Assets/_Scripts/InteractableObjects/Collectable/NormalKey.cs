@@ -25,6 +25,7 @@ namespace Game.InteractableObjects
         public void Execute()
         {
             PlayerPrefs.SetInt("Key" + gameObject.GetInstanceID(), 1);
+            PlayerPrefs.SetInt(PlayerPrefsLibrary.PlayerSpawnLocation, 1);
             keyInventory.AddKey(true);
             gameObject.SetActive(false);
         }

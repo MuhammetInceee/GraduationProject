@@ -4,5 +4,6 @@ public enum SceneNameEnum
 {
     MainMenu,
     House,
-    Maze
+    Maze,
+    CubePuzzle
 }

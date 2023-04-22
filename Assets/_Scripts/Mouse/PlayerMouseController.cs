@@ -10,7 +10,6 @@ namespace Mouse.PlayerInput
 {
     public class PlayerMouseController : MonoBehaviour
     {
-        private bool canFallow = true;
         private PlayerMovementDataSO _playerMovementData;
         
         [SerializeField] private Transform playerBody;

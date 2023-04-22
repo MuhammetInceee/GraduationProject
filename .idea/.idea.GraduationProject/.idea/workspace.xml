@@ -12,6 +12,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enums/SceneNameEnum.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/InteractableObjects/Collectable/StoryKey.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/InteractableObjects/Interactable/PuzzleCubes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MainPlayer/PlayerSpawnLocationChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Managers/CubePuzzleManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -97,6 +99,7 @@
       <workItem from="1679514352465" duration="1081000" />
       <workItem from="1679829093350" duration="829000" />
       <workItem from="1681850328865" duration="3257000" />
+      <workItem from="1682198555133" duration="4525000" />
     </task>
     <servers />
   </component>
