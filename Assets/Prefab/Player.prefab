@@ -4055,7 +4055,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50b4a03030cc5b24582ba1184d872976, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensitivity: 100
   playerBody: {fileID: 3971822186604657560}
   timeToZoom: 0.3
   zoomFOV: 30
