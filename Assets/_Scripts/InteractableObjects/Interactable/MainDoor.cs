@@ -24,6 +24,7 @@ namespace Game.InteractableObjects
         {
             if(keyInventory.normalKey <= 0) return;
             keyInventory.UseKey(true);
+            PlayerPrefs.SetInt(PlayerPrefsLibrary.PlayerSpawnLocation, 1);
             
             _player.enabled = false;
             _player.transform.position = teleportTargetTr.position;
