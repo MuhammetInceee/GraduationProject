@@ -111,4 +111,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   keyInventory: {fileID: 11400000, guid: 999705864cf36a04dbd268f70678a56b, type: 2}
-  sceneName: 0
+  sceneName: 2

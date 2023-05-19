@@ -49183,14 +49183,9 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 362856064, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
---- !u!1 &1141656502 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3971822186604657583, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
-    type: 3}
-  m_PrefabInstance: {fileID: 1141656501}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1142649204
 GameObject:
   m_ObjectHideFlags: 0
@@ -62056,10 +62051,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea59b9b5025b414f8bd41b09860fd7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 1141656502}
-  locations:
-  - {fileID: 1659762097}
-  - {fileID: 360216187}
+  sceneName: 2
 --- !u!4 &1439654009
 Transform:
   m_ObjectHideFlags: 0
@@ -100227,7 +100219,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6a86a8d6409adb469af76efed452d9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: 3
 --- !u!65 &5608153234759436992
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -102271,7 +102262,7 @@ GameObject:
   - component: {fileID: 6163510018357244525}
   - component: {fileID: 8245485075394610855}
   - component: {fileID: 8245485075394610857}
-  - component: {fileID: 8245485075394610856}
+  - component: {fileID: 8245485075394610859}
   m_Layer: 6
   m_Name: Main_Door
   m_TagString: Untagged
@@ -103016,20 +103007,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &8245485075394610856
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7596768336080398194}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 193d1577251b2d147b364d0eae3260a5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  keyInventory: {fileID: 11400000, guid: 999705864cf36a04dbd268f70678a56b, type: 2}
-  teleportTargetTr: {fileID: 20730632}
 --- !u!65 &8245485075394610857
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -103043,6 +103020,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.0021475847, y: 0.011257541, z: 0.023242578}
   m_Center: {x: 0.0003284308, y: -0.0000002400636, z: 0.0005111811}
+--- !u!114 &8245485075394610859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7596768336080398194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 193d1577251b2d147b364d0eae3260a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  keyInventory: {fileID: 11400000, guid: 999705864cf36a04dbd268f70678a56b, type: 2}
+  sceneName: 2
 --- !u!23 &8287127607330765226
 MeshRenderer:
   m_ObjectHideFlags: 0

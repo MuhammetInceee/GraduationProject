@@ -6,11 +6,14 @@ namespace Game.InteractableObjects
 {
     public class SceneChangerDoor : MonoBehaviour, IInteractable
     {
-        public SceneNameEnum sceneName;
-
+        private readonly string[] _scenes = { "Maze", "CubePuzzle" };
+        
         public void Execute()
         {
-            SceneManager.LoadScene(sceneName.ToString());
+            var targetScene = _scenes[PlayerPrefs.GetInt(PlayerPrefsLibrary.PuzzleLevel, 0)];
+            
+            if(targetScene == null) return;
+            SceneManager.LoadScene(targetScene);
         }
     }
 

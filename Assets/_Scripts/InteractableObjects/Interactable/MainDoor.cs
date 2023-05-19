@@ -2,21 +2,17 @@ using System;
 using Game.Interafaces;
 using KeyInventory;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace Game.InteractableObjects
 {
     public class MainDoor : MonoBehaviour, IInteractable
     {
         [SerializeField] private KeyInventorySO keyInventory;
-        [SerializeField] private Transform teleportTargetTr;
-        
-        private CharacterController _player;
-        private Collider _collider;
+        public SceneNameEnum sceneName;
 
         private void Awake()
         {
-            _player = GameObject.FindWithTag("Player").GetComponent<CharacterController>();
-            _collider = GetComponent<Collider>();
             keyInventory.LoadKeys();
         }
         
@@ -25,10 +21,8 @@ namespace Game.InteractableObjects
             if(keyInventory.normalKey <= 0) return;
             keyInventory.UseKey(true);
             PlayerPrefs.SetInt(PlayerPrefsLibrary.PlayerSpawnLocation, 1);
-            
-            _player.enabled = false;
-            _player.transform.position = teleportTargetTr.position;
-            _player.enabled = true;
+            SceneManager.LoadScene(sceneName.ToString());
         }
+        
     }
 }

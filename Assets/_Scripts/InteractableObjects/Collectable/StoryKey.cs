@@ -1,4 +1,3 @@
-using System;
 using Game.Interafaces;
 using KeyInventory;
 using UnityEngine;
@@ -31,6 +30,7 @@ namespace Game.InteractableObjects
             keyInventory.AddKey(false);
             gameObject.SetActive(false);
             SceneManager.LoadScene(sceneName.ToString());
+            PlayerPrefs.SetInt(PlayerPrefsLibrary.PuzzleLevel, PlayerPrefs.GetInt(PlayerPrefsLibrary.PuzzleLevel, 0) + 1);
         }
     }
 }

@@ -1,8 +1,10 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Game.Interafaces;
 using MainPlayer.FlashLight;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace Game.InteractableObjects
 {

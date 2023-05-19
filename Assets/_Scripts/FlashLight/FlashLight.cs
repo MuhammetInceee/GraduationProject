@@ -49,26 +49,23 @@ namespace MainPlayer.FlashLight
 
         private void HandleFlashlightBattery()
         {
-            if (_flashlight.enabled)
+            if (!_flashlight.enabled) return;
+            
+            _batteryLevel -= Time.deltaTime * _flashLightSettings.BatteryUseSpeed;
+            batteryImage.fillAmount = _batteryLevel / BatteryCapacity;
+            if (_batteryLevel <= 0f)
             {
-                _batteryLevel -= Time.deltaTime * _flashLightSettings.BatteryUseSpeed;
-                batteryImage.fillAmount = _batteryLevel / BatteryCapacity;
-                if (_batteryLevel <= 0f)
-                {
-                    _flashlight.enabled = false;
-                }
+                _flashlight.enabled = false;
             }
         }
 
         private void RefillBattery()
         {
-            if (Input.GetKeyDown(KeyCode.R) && _flashLightSettings.BatteryCount > 0)
-            {
-                _batteryLevel = BatteryCapacity;
-                batteryImage.fillAmount = 1f;
-                FillBattery();
-                _flashLightSettings.UseBattery();
-            }
+            if (!Input.GetKeyDown(KeyCode.R) || _flashLightSettings.BatteryCount <= 0) return;
+            _batteryLevel = BatteryCapacity;
+            batteryImage.fillAmount = 1f;
+            FillBattery();
+            _flashLightSettings.UseBattery();
         }
 
         private void FlashLightToggle()
