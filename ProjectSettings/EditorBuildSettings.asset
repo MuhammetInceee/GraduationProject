@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CubePuzzle.unity
     guid: 32230aebf30a38044b59556f78bfb904
+  - enabled: 1
+    path: Assets/Scenes/KitchenRoom.unity
+    guid: 1acebb0083b380c48a8aa5c44ecf2777
   m_configObjects: {}

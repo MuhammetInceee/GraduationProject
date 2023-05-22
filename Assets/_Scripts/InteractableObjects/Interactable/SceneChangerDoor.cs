@@ -6,7 +6,7 @@ namespace Game.InteractableObjects
 {
     public class SceneChangerDoor : MonoBehaviour, IInteractable
     {
-        private readonly string[] _scenes = { "Maze", "CubePuzzle" };
+        private readonly string[] _scenes = { "Maze", "CubePuzzle", "KitchenRoom" };
         
         public void Execute()
         {
