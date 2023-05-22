@@ -14,8 +14,8 @@ namespace Game.InteractableObjects
 
         private const float Distance = 0.8f;
         
-        private static readonly Vector3 BackVector = new Vector3(0, 0, -Distance);
-        private static readonly Vector3 ForwardVector = new Vector3(0, 0, Distance);
+        private static readonly Vector3 BackVector = new Vector3(-Distance, 0, 0);
+        private static readonly Vector3 ForwardVector = new Vector3(Distance, 0, 0);
         private static readonly Vector3 UpVector = new Vector3(0, Distance, 0);
         private static readonly Vector3 DownVector = new Vector3(0, -Distance, 0);
 
@@ -37,9 +37,9 @@ namespace Game.InteractableObjects
         {
             if (!_canMove || !_puzzleManager.CanPlay) return;
 
-            for (int i = 0; i < _calculateVectors.Length; i++)
+            foreach (var t in _calculateVectors)
             {
-                if (!CheckNeighbour(_calculateVectors[i]))
+                if (!CheckNeighbour(t))
                 {
                     break;
                 }
@@ -48,7 +48,7 @@ namespace Game.InteractableObjects
 
         private bool CheckNeighbour(Vector3 position)
         {
-            if (Physics.Raycast(transform.position, position, out RaycastHit hit, 1))
+            if (Physics.Raycast(transform.position, position, out var hit, 1))
             {
                 return true;
             }
