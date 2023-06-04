@@ -11,12 +11,8 @@ namespace Game.InteractableObjects
 
         [SerializeField] private KeyInventorySO keyInventory;
         public SceneNameEnum sceneName;
-
-
-        private void Awake()
-        {
-            CheckBought();
-        }
+        
+        private void Awake() => CheckBought();
 
         private void CheckBought()
         {
@@ -27,7 +23,7 @@ namespace Game.InteractableObjects
         public void Execute()
         {
             PlayerPrefs.SetInt("Key" + gameObject.GetInstanceID(), 1);
-            keyInventory.AddKey(false);
+            keyInventory.AddKey();
             gameObject.SetActive(false);
             SceneManager.LoadScene(sceneName.ToString());
             PlayerPrefs.SetInt(PlayerPrefsLibrary.PuzzleLevel, PlayerPrefs.GetInt(PlayerPrefsLibrary.PuzzleLevel, 0) + 1);

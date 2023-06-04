@@ -1,6 +1,5 @@
-using System;
 using UnityEngine;
-using UnityEngine.Serialization;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace MainPlayer.Physics
@@ -12,40 +11,30 @@ namespace MainPlayer.Physics
         public float maxFear = 100f;
         public float wrongWayFearIncreaseRate = 0.1f;
 
-        private float _currentFear = 0f;
+        private float _currentFear;
         private bool _wrongWay;
 
-        void Start()
-        {
-            
-            fearImage.fillAmount = _currentFear / maxFear;
-        }
+        private void Start() => fearImage.fillAmount = _currentFear / maxFear;
 
-        void Update()
+        private void Update()
         {
-            print(_wrongWay);
-
             _currentFear = _wrongWay
                 ? Mathf.Clamp(_currentFear + (wrongWayFearIncreaseRate * Time.deltaTime), 0f, maxFear)
                 : Mathf.Clamp(_currentFear - (fearDecreaseRate * Time.deltaTime), 0f, maxFear);
-
             fearImage.fillAmount = _currentFear / maxFear;
+
+            if (_currentFear >= maxFear) SceneManager.LoadScene("MainHouse");
         }
 
-        void OnTriggerStay(Collider other)
+        private void OnTriggerStay(Collider other)
         {
-            if (other.gameObject.CompareTag("WrongWay"))
-            {
-                _wrongWay = true;
-            }
+            if (other.gameObject.CompareTag("WrongWay")) _wrongWay = true;
         }
 
-        void OnTriggerExit(Collider other)
+        private void OnTriggerExit(Collider other)
         {
-            if (other.gameObject.CompareTag("WrongWay"))
-            {
-                _wrongWay = false;
-            }
+            if (other.gameObject.CompareTag("WrongWay")) _wrongWay = false;
+
         }
     }
 }

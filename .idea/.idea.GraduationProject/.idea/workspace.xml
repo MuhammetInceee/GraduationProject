@@ -8,7 +8,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1d3dacd00ce441dc8c61d528a2193088158400/2d/a0ca2126/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1d3dacd00ce441dc8c61d528a2193088158400/30/4ca4cfb3/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/GlobalGame/LookAtCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Managers/GameEndDoorManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/StringSO.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,6 +103,7 @@
       <workItem from="1682341762516" duration="77000" />
       <workItem from="1684497381084" duration="5260000" />
       <workItem from="1684781658298" duration="902000" />
+      <workItem from="1685821929093" duration="7499000" />
     </task>
     <servers />
   </component>

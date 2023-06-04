@@ -21,7 +21,7 @@ namespace KeyInventory
             PlayerPrefs.SetInt(PlayerPrefsLibrary.StoryKeyPlayerPrefsKey, storyKey);
         }
 
-        public void AddKey(bool isNormalKey)
+        public void AddKey(bool isNormalKey = false)
         {
             if (isNormalKey)
             {
@@ -49,11 +49,13 @@ namespace KeyInventory
 
         public int GetNormalKeyCount()
         {
+            LoadKeys();
             return normalKey;
         }
 
         public int GetStoryKeyCount()
         {
+            LoadKeys();
             return storyKey;
         }
     }

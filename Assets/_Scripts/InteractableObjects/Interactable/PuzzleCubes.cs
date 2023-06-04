@@ -25,13 +25,10 @@ namespace Game.InteractableObjects
         private CubePuzzleManager _puzzleManager;
         private bool _canMove = true;
         
-
         public Vector3 targetPos;
 
-        private void Awake()
-        {
-            _puzzleManager = transform.GetComponentInParent<CubePuzzleManager>();
-        }
+        private void Awake() => _puzzleManager = transform.GetComponentInParent<CubePuzzleManager>();
+
 
         public void Execute()
         {
