@@ -1,5 +1,4 @@
 using UnityEngine;
-using UOP1.StateMachine;
 
 [CreateAssetMenu(menuName = "State Machines/Conditions/DefaultCondition")]
 public class DefaultConditionSO : StateConditionSO<DefaultCondition> { }

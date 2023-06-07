@@ -3,7 +3,6 @@ using UnityEditor;
 using UnityEditorInternal;
 using UnityEngine;
 using static UnityEditor.EditorGUI;
-using UOP1.StateMachine.Editor;
 
 
     internal class TransitionDisplayHelper
@@ -38,7 +37,6 @@ using UOP1.StateMachine.Editor;
                 rect.x += 5;
                 rect.width -= 10;
                 rect.height -= listHeight;
-                DrawRect(rect, ContentStyle.DarkGray);
             }
 
             // Transition Header
@@ -163,13 +161,6 @@ using UOP1.StateMachine.Editor;
             reorderableList.onChangedCallback += list => list.serializedProperty.serializedObject.ApplyModifiedProperties();
             reorderableList.drawElementBackgroundCallback += (Rect rect, int index, bool isActive, bool isFocused) =>
             {
-                if (isFocused)
-                    EditorGUI.DrawRect(rect, ContentStyle.Focused);
-
-                if (index % 2 != 0)
-                    EditorGUI.DrawRect(rect, ContentStyle.ZebraDark);
-                else
-                    EditorGUI.DrawRect(rect, ContentStyle.ZebraLight);
             };
         }
     }

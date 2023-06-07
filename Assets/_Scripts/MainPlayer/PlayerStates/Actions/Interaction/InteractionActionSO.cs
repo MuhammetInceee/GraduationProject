@@ -1,7 +1,6 @@
 using System;
 using MainPlayer.Data;
 using UnityEngine;
-using UOP1.StateMachine;
 
 namespace MainPlayer.Actions.Debugger
 {

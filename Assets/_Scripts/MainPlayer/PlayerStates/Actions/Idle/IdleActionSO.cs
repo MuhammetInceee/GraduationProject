@@ -1,6 +1,5 @@
 using System;
 using UnityEngine;
-using UOP1.StateMachine;
 
 namespace MainPlayer.Actions
 {

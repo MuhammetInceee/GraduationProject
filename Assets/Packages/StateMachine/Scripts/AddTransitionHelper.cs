@@ -5,7 +5,6 @@ using UnityEditorInternal;
 using static UnityEditor.EditorGUI;
 
 using UnityEngine;
-using UOP1.StateMachine.Editor;
 //using UOP1.StateMachine.ScriptableObjects;
 
 
@@ -54,7 +53,6 @@ using UOP1.StateMachine.Editor;
             // Background
             {
                 position.height = listHeight + singleLineHeight * 4;
-                DrawRect(position, ContentStyle.LightGray);
             }
 
             // Reserve space
@@ -159,13 +157,6 @@ using UOP1.StateMachine.Editor;
             reorderableList.onChangedCallback += list => reorderableList.serializedProperty.serializedObject.ApplyModifiedProperties();
             reorderableList.drawElementBackgroundCallback += (Rect rect, int index, bool isActive, bool isFocused) =>
             {
-                if (isFocused)
-                    EditorGUI.DrawRect(rect, ContentStyle.Focused);
-
-                if (index % 2 != 0)
-                    EditorGUI.DrawRect(rect, ContentStyle.ZebraDark);
-                else
-                    EditorGUI.DrawRect(rect, ContentStyle.ZebraLight);
             };
         }
 

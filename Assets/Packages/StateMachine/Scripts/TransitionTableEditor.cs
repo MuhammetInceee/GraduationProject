@@ -7,7 +7,6 @@ using UnityEngine;
 //using UOP1.StateMachine.ScriptableObjects;
 using static UnityEditor.EditorGUILayout;
 using Object = UnityEngine.Object;
-using UOP1.StateMachine.Editor;
 
 
     [CustomEditor(typeof(TransitionTableSO))]
@@ -95,8 +94,6 @@ using UOP1.StateMachine.Editor;
             // For each fromState
             for (int i = 0; i < _fromStates.Count; i++)
             {
-                var stateRect = BeginVertical(ContentStyle.WithPaddingAndMargins);
-                EditorGUI.DrawRect(stateRect, ContentStyle.LightGray);
 
                 var transitions = _transitionsByFromStates[i];
 
@@ -116,9 +113,6 @@ using UOP1.StateMachine.Editor;
                     {
                         var toggleRect = headerRect;
                         toggleRect.width -= 140;
-                        _toggledIndex =
-                            EditorGUI.BeginFoldoutHeaderGroup(toggleRect, _toggledIndex == i, label, ContentStyle.StateListStyle) ?
-                            i : _toggledIndex == i ? -1 : _toggledIndex;
                     }
 
                     Separator();
@@ -176,18 +170,10 @@ using UOP1.StateMachine.Editor;
                 if (_toggledIndex == i)
                 {
                     EditorGUI.BeginChangeCheck();
-                    stateRect.y += EditorGUIUtility.singleLineHeight * 2;
 
                     foreach (var transition in transitions) // Display all the transitions in the state
                     {
-                        if (transition.Display(ref stateRect)) // Return if there were changes
-                        {
-                            EditorGUI.EndChangeCheck();
-                            EndFoldoutHeaderGroup();
-                            EndVertical();
-                            EndHorizontal();
-                            return;
-                        }
+
                         Separator();
                     }
                     if (EditorGUI.EndChangeCheck())

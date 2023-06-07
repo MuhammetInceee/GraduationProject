@@ -20,7 +20,6 @@ namespace UOP1.StateMachine.Editor
 
 		private static bool _initialised = false;
 
-		[InitializeOnLoadMethod]
 		internal static void Initialize()
 		{
 			if (_initialised)

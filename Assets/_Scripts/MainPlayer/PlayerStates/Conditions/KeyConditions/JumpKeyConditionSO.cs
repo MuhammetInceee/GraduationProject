@@ -1,6 +1,5 @@
 using KeyBinds;
 using UnityEngine;
-using UOP1.StateMachine;
 
 namespace MainPlayer.Conditions
 {

@@ -15,7 +15,7 @@ namespace UI.MainMenu
             obj.transform.DOScale(Vector3.one, 0.3f)
                 .OnComplete(() =>
                 {
-                    SceneManager.LoadScene("House");
+                    SceneManager.LoadScene("MainHouse");
                 });
         }
 
