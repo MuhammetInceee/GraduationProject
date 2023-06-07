@@ -13,7 +13,7 @@ public class TextVisualizer : MonoBehaviour, IInteractable
     private void Start()
     {
         _canvas = transform.GetChild(0).gameObject;
-        _textMesh = GetComponentInChildren<TextMeshProUGUI>();
+        _textMesh = _canvas.transform.GetChild(0).GetComponent<TextMeshProUGUI>();
     }
 
     public void Execute()
