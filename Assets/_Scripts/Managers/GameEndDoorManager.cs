@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using KeyInventory;
 using UnityEngine;
 
@@ -8,6 +9,7 @@ public class GameEndDoorManager : MonoBehaviour
     [SerializeField] private KeyInventorySO keyInventory;
     [SerializeField] private List<GameObject> doors;
     private void Start() => InitDoors();
+
 
     private void Update()
     {
@@ -27,7 +29,6 @@ public class GameEndDoorManager : MonoBehaviour
         for (var i = 0; i < keyInventory.GetStoryKeyCount(); i++)
         {
             doors[i].SetActive(false);
-            print("asd");
         }
     }
 }
