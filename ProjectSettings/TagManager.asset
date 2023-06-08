@@ -6,6 +6,9 @@ TagManager:
   tags:
   - HandTarget
   - WrongWay
+  - Play
+  - Quit
+  - Settings
   layers:
   - Default
   - TransparentFX
