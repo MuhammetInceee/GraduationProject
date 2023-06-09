@@ -8347,7 +8347,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 77638701, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1256869044, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
       propertyPath: m_AnchorMax.y
@@ -8470,6 +8470,11 @@ PrefabInstance:
     - target: {fileID: 3971822187868077503, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
         type: 3}
       propertyPath: m_InnerSpotAngle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6624895535247822567, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
