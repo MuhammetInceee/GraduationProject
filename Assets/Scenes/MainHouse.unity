@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.01593547, g: 0.024809804, b: 0.051242437, a: 1}
+  m_IndirectSpecularColor: {r: 0.015935402, g: 0.024809698, b: 0.051242158, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6172,7 +6172,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &487611333
 Transform:
   m_ObjectHideFlags: 0
@@ -8345,6 +8345,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 77638701, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1256869044, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1745936865, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 628605710767824636, guid: 34c5630e19c30a64c9cc6fc9cca4d6b0,
         type: 3}
       propertyPath: m_IsActive
@@ -15027,7 +15039,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1578376332
 Transform:
   m_ObjectHideFlags: 0
