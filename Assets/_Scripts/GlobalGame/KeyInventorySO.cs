@@ -8,7 +8,6 @@ namespace KeyInventory
         public int normalKey;
         public int storyKey;
         
-
         public void LoadKeys()
         {
             normalKey = PlayerPrefs.GetInt(PlayerPrefsLibrary.NormalKeyPlayerPrefsKey, 0);

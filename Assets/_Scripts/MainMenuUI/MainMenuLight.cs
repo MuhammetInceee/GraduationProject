@@ -31,7 +31,7 @@ public class MainMenuLight : MonoBehaviour
                 var obj = hitted.collider.gameObject;
                 if (obj.CompareTag("Play"))
                 {
-                    SceneManager.LoadScene("House");
+                    SceneManager.LoadScene("MainHouse");
                 }
                 else if (obj.CompareTag("Quit"))
                 {

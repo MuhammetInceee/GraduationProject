@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: KeyInventory
   m_EditorClassIdentifier: 
   normalKey: 0
-  storyKey: 3
+  storyKey: 0

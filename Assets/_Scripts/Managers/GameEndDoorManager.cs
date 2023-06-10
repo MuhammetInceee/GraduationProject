@@ -1,6 +1,4 @@
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using KeyInventory;
 using UnityEngine;
 
@@ -8,15 +6,10 @@ public class GameEndDoorManager : MonoBehaviour
 {
     [SerializeField] private KeyInventorySO keyInventory;
     [SerializeField] private List<GameObject> doors;
-    private void Start() => InitDoors();
-
-
-    private void Update()
+    private void Start()
     {
-        if (Input.GetKeyDown(KeyCode.P))
-        {
-            InitDoors();
-        }
+        keyInventory.LoadKeys();
+        InitDoors();
     }
 
     private void InitDoors()

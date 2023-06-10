@@ -34,7 +34,7 @@ public class PlayerPhysicController : MonoBehaviour
     {
         if (_conditions.isGrounded && _playerPhysicData.PhysicVelocity.y < 0)
         {
-            _playerPhysicData.PhysicVelocity.y = -2f;
+            _playerPhysicData.PhysicVelocity.y = -9.81f;
         }
 
         _playerPhysicData.PhysicVelocity.y += _playerPhysicData.Gravity * Time.deltaTime;
@@ -48,5 +48,4 @@ public class PlayerPhysicController : MonoBehaviour
         _conditions.isGrounded = Physics.CheckSphere(groundCheckTr.position, groundDistance, groundLayer);
     }
     
-
 }
