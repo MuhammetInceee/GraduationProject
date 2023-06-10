@@ -24,6 +24,10 @@ namespace MainPlayer.Data
         [Header("Mouse Parameters")]
 
         [SerializeField] private float mouseSensitivity;
-        public float MouseSensitivity => mouseSensitivity;
+        public float MouseSensitivity
+        {
+            get => mouseSensitivity;
+            set => mouseSensitivity = value;
+        }
     }
 }
