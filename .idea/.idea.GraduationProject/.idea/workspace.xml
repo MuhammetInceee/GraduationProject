@@ -54,7 +54,7 @@
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Masaüstü/asd\GraduationProject.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Masaüstü/GraduBuild\GraduationProject.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="C:\Users\incem\OneDrive\Masaüstü\Builds" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -137,6 +137,8 @@
       <workItem from="1686215520166" duration="4861000" />
       <workItem from="1686392386795" duration="6925000" />
       <workItem from="1686406002792" duration="138000" />
+      <workItem from="1686475341522" duration="52000" />
+      <workItem from="1686562458482" duration="624000" />
     </task>
     <servers />
   </component>
